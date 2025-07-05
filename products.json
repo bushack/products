@@ -22,21 +22,21 @@
   },
   {
     "Name": "Mid-Century Lamp",
-    "Manufacturer": "Unknown",
+    "Manufacturer": "",
     "Description": "Feast your eyes on this magnificent, sculptural 1960s solid teak & brass floor lamp which we’ve paired with this eyegasmic, vibrant handmade Swedish dog fabric drum shade.",
     "Image": "https://scontent-lhr8-2.xx.fbcdn.net/v/t51.75761-15/504007318_18333166267166570_4049292802236481305_n.jpg?stp=dst-jpegr_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=O8La0VwsxhoQ7kNvwFHjObV&_nc_oc=AdnA8KNipNGAhpz5SHhXnWwLfIkSsP-IEhB1CA1DJUZyluPa0oVKFEAvfYBAANaYmns&_nc_zt=23&se=-1&_nc_ht=scontent-lhr8-2.xx&_nc_gid=Ghr2YVUUuQhE4BI7-dtYZQ&oh=00_AfMaP8fHsnkrLxougpoA9a9boNO8yL0MAdpk8mvUeP50dQ&oe=686A1B03",
     "Price": "£1234.56"
   },
   {
     "Name": "Mid-Century Sideboard",
-    "Manufacturer": "Unknown",
+    "Manufacturer": "",
     "Description": "Cast your gaze over this truly outstanding Scandinavian teak sideboard. Sliding doors, circular pulls, tapered legs and an incredible teak grain make this one of our favourites in a good while. Hugely desirable and stylish.",
     "Image": "https://scontent-lhr8-2.xx.fbcdn.net/v/t51.75761-15/505772039_18332542000166570_4531447779885361462_n.jpg?stp=dst-jpegr_tt6&_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=QZFF1-ONSfwQ7kNvwGv8oTA&_nc_oc=AdlFvZYIGJ7wSG89A7OsOP8U8GzbzkzArZXxtcldcucffEVSC3xZpfZLrPw4XX-Gh0M&_nc_zt=23&se=-1&_nc_ht=scontent-lhr8-2.xx&_nc_gid=L5JEyUdLgzestRIF3WUiEg&oh=00_AfPMSElwk2jFOUa7rCOArhyUGac5L_bOtxD8Va5ikgxCzA&oe=686A0EC6",
     "Price": "£1234.56"
   },
   {
     "Name": "Mid-Century Lamp",
-    "Manufacturer": "Unknown",
+    "Manufacturer": "",
     "Description": "Feast your eyes on this magnificent, sculptural 1960s solid teak floor lamp which we’ve paired with this eyegasmic, vibrant handmade Swedish cat fabric drum shade.",
     "Image": "https://scontent-lhr8-2.xx.fbcdn.net/v/t51.75761-15/504830624_18332329840166570_6186177433475043334_n.jpg?stp=dst-jpegr_tt6&_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DtzpkHFt43kQ7kNvwEPoR-7&_nc_oc=AdnB589vG_3465_321NVx7U8hdH3UMwPvTszb-nFXv8Iqlp0jeu7j1QO78grImcQSaA&_nc_zt=23&se=-1&_nc_ht=scontent-lhr8-2.xx&_nc_gid=W36Ur3c9N6-G4XBNTKSmpA&oh=00_AfPRxp106HGOd6akucBAOTi5JFhnJb0UPNl_59vPO6eUTw&oe=686A14D4",
     "Price": "£1234.56"
@@ -57,7 +57,7 @@
   },
   {
     "Name": "Mid-Century Table",
-    "Manufacturer": "Unknown Manufacturer",
+    "Manufacturer": "",
     "Description": "Enter a description",
     "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuP0X2tY9on2gHhGKTjTwfJQts2GsbCT8QxA&s",
     "Price": "£1234.56"
